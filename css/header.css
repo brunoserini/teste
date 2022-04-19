@@ -1,0 +1,25 @@
+#nav_header {
+  background-color: rgb(43, 43, 43);
+  padding: 15px;
+  text-align: center;
+}
+#nav_header li {
+  display: inline;
+  color: white;
+  transition: 0.3s;
+}
+#nav_header li:hover {
+  color: rgb(172, 172, 172);
+}
+#nav_header a {
+  text-decoration: none;
+  word-spacing: 20px;
+}
+#cabecalho img{
+    width: 100%;
+}
+#cabecalho h1{
+    color: black;
+    text-align: center;
+    margin: 20px 0;
+}
